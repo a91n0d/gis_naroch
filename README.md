@@ -1,6 +1,6 @@
 # Техническое обеспечение и администрирование геоинформационных систем в деятельности ООПТ
 
-# 1. Развертывание и настройка ArcGIS Enterprise
+## 1. Развертывание и настройка ArcGIS Enterprise
 [Развертывание системы ArcGIS Enterprise](https://blogs.esri-cis.com/2022/07/14/arcgis_enterprise_deployment1091/):
 
 - [Руководство по установке ArcGIS Server 10.9.1 (Windows)](https://enterprise.arcgis.com/ru/server/10.9.1/install/windows/welcome-to-the-arcgis-for-server-install-guide.htm)
