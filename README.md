@@ -11,4 +11,5 @@
 - [Руководство по установке ArcGIS Data Store (Windows)](https://enterprise.arcgis.com/ru/data-store/10.9.1/install/windows/welcome-to-arcgis-data-store-installation-guide.htm)
   
 - [Руководство по установке ArcGIS Web Adaptor (Java Platform)](https://enterprise.arcgis.com/ru/web-adaptor/10.9.1/install/java-windows/welcome-arcgis-web-adaptor-install-guide.htm)
+
 [Подводные камни установки серверных продуктов ArcGIS](https://blogs.esri-cis.ru/2015/06/08/underwater-stones-installation-arcgis-server/)
