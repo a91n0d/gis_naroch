@@ -1,6 +1,10 @@
 # Техническое обеспечение и администрирование геоинформационных систем в деятельности ООПТ
 
 ## 1. Развертывание и настройка ArcGIS Enterprise
+
+Список портов, которые необходимы для работы ArcGIS Enterprise (необходимо открыть в брандмауэре):
+6443, 6080, 6006
+
 [Развертывание системы ArcGIS Enterprise](https://blogs.esri-cis.com/2022/07/14/arcgis_enterprise_deployment1091/):
 
 - [Руководство по установке ArcGIS Server 10.9.1 (Windows)](https://enterprise.arcgis.com/ru/server/10.9.1/install/windows/welcome-to-the-arcgis-for-server-install-guide.htm)
@@ -27,15 +31,18 @@
 
 [Требования к версии PostgreSQL ПО ArcGIS оф. документация](https://enterprise.arcgis.com/ru/system-requirements/10.9.1/windows/database-requirements-postgresql.htm)
 
-### Шаг 1.
+### Шаг 1. Установка
 
 [Установка PostreSQL](https://metanit.com/sql/postgresql/1.1.php)
 
-### Шаг 2.
+### Шаг 2. Настройка входящих подключений
 
 [Настраиваем подключения через файл pg_hba.conf](http://postgrespro.ru/docs/postgrespro/10/auth-pg-hba-conf)
 
 Файл по умолчанию находится в директории, которая была указана при установке PostreSQL для хранения базы данных.
 
 [Наш рабочий файл pg_hba.conf](http://gisoopt.by/gis/data/temp/pg_hba.rar)
+
+
+Добавление типа ST_Geometry в базу данных PostgreSQL
 
