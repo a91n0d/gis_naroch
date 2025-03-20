@@ -48,5 +48,12 @@
 [Наш рабочий файл pg_hba.conf](http://gisoopt.by/gis/data/temp/pg_hba.rar)
 
 
-Добавление типа ST_Geometry в базу данных PostgreSQL
+### Шаг 3. Добавление типа ST_Geometry в базу данных PostgreSQL
+
+Для соединения с СУБД PostreSQL ПО ArcGIS Desktop  необходимо добавть библиотеку ST_Geometry в директорию установки PostgreSQL, для этого:
+- из директории установки ArcGIS Desktop (по умолчанию c:\Program Files (x86)\ArcGIS\Desktop10.8\DatabaseSupport\PostgreSQL\) для соответсвующей версии СУБД и операционной системы скопировать файл st_geometry.dll;
+- перейти в директорию установки СУБД PostreSQL (по умолчанию c:\Program Files\PostgreSQL\10\lib\) и вставить скопированую библиотеку.
+
+Как должно выглядеть подключение к многопользовательской БД в ArcGIS Desktop / ArcGIS Pro
+
 
