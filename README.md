@@ -54,8 +54,14 @@
 - из директории установки ArcGIS Desktop (по умолчанию c:\Program Files (x86)\ArcGIS\Desktop10.8\DatabaseSupport\PostgreSQL\) для соответсвующей версии СУБД и операционной системы скопировать файл st_geometry.dll;
 - перейти в директорию установки СУБД PostreSQL (по умолчанию c:\Program Files\PostgreSQL\10\lib\) и вставить скопированую библиотеку.
 
-Как должно выглядеть подключение к многопользовательской БД в ArcGIS Desktop / ArcGIS Pro
+Как должно выглядеть подключение к многопользовательской БД в ArcGIS Desktop / ArcGIS Pro:
 
 ![](https://github.com/a91n0d/gis_naroch/blob/main/source/connect_DB.jpg?raw=true)
+
+где:
+- 1 - Имя платформы БД;
+- 2 - Адрес сервера;
+- 3 - Имя пользователя и пароль;
+- 4 - Выбор подключаемой БД из перечня.
 
 
