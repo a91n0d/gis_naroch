@@ -56,6 +56,6 @@
 
 Как должно выглядеть подключение к многопользовательской БД в ArcGIS Desktop / ArcGIS Pro
 
-!(https://github.com/a91n0d/gis_naroch/blob/main/source/connect_DB.jpg?raw=true)
+![](https://github.com/a91n0d/gis_naroch/blob/main/source/connect_DB.jpg?raw=true)
 
 
