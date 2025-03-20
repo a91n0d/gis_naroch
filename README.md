@@ -22,8 +22,20 @@
 - PostgreSQL 10.8.
 - ArcGIS Desktop 10.8 или 10.6.1.
 - ArcGIS Pro 3.0.0.
+
 Все это корректно работает между собой.
 
 [Требования к версии PostgreSQL ПО ArcGIS оф. документация](https://enterprise.arcgis.com/ru/system-requirements/10.9.1/windows/database-requirements-postgresql.htm)
 
-По 
+### Шаг 1.
+
+[Установка PostreSQL](https://metanit.com/sql/postgresql/1.1.php)
+
+### Шаг 2.
+
+[Настраиваем подключения через файл pg_hba.conf](http://postgrespro.ru/docs/postgrespro/10/auth-pg-hba-conf)
+
+Файл по умолчанию находится в директории, которая была указана при установке PostreSQL для хранения базы данных.
+
+[Наш рабочий файл pg_hba.conf](http://gisoopt.by/gis/data/temp/pg_hba.rar)
+
