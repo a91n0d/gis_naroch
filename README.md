@@ -189,13 +189,15 @@
 
 ![Управление слоем](https://github.com/user-attachments/assets/93fd4e44-5955-4304-95b7-fef5dd4a52a8)
 
-В окне **Управление** производим преднастройку слоя.
+В окне **Управление** производим преднастройку слоя (Рекомендуется производить настройку слоя согласно рисунку, представленному ниже).
 
-![img12](https://github.com/user-attachments/assets/22926377-3bd2-4162-a963-3aa64df256cb)
+![img28](https://github.com/user-attachments/assets/fdabac05-930b-4f62-ba53-ba47221d5ca6)
 
-1. В поле *Управление версиями* рекомендуем выбирать *Традиционный*.
+1. Поле *Управление версиями* позволяет выполнять редактирование одних и тех же данных в одно и то же время без установки блокировок или дублирования данных.
 
 Подробнее с вопросом версионности можно ознакомится в официальной документации на  сайте ESRI по ссылкам представленным ниже.
+
+(https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/overview-of-versioning-in-arcgis-pro.htm)
 
 (https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/change-settings-for-editing-versioned-data.htm)
 
