@@ -146,6 +146,7 @@
 Подробнее с вопросом версионности можно ознакомится в официальной документации на  сайте ESRI по ссылкам представленным ниже.
 
 (https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/change-settings-for-editing-versioned-data.htm)
+
 (https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/versioning-tab.htm)
 
 2. Поле *Архивирование* предоставляет механизм сбора сведений об изменении данных, управления ими и их анализа.
@@ -205,6 +206,8 @@
 Если у вас несколько активных порталов, то для переключения на нужный необходимо нажать на ... справа от портала и выбрать *Задать как Активный портал*.
 
 ![img18](https://github.com/user-attachments/assets/843daf80-d7e1-4015-b0ec-3bfadf30eb93)
+
+### Шаг 2. Преднастройка слоёв перед публикацией на портал
 
 
 
