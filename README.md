@@ -131,8 +131,20 @@
 
 ![Результат подключения БД](https://github.com/user-attachments/assets/187d6010-250f-4a2b-b7e8-abc9548d6d89)
 
+## 4. Преднастройка слоёв в ArcGIS Pro
 
+Для предварительной настройки слоя в базе данных необходимо нажать правой кнопкой мыши на слой и выбрать *Управление*.
 
+![Управление слоем](https://github.com/user-attachments/assets/93fd4e44-5955-4304-95b7-fef5dd4a52a8)
+
+Во вкладке **Управление** производим преднастройку слоя.
+
+В поле *Управление версиями* рекомендуем выбирать *Традиционный*. Подробнее с вопросом версионности можно ознакомится в официальной документации на официальном сайте ESRI по ссылкам представленным ниже.
+
+(https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/change-settings-for-editing-versioned-data.htm)
+(https://pro.arcgis.com/ru/pro-app/latest/help/data/geodatabases/overview/versioning-tab.htm)
+
+![img12](https://github.com/user-attachments/assets/22926377-3bd2-4162-a963-3aa64df256cb)
 
 
 
