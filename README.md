@@ -251,7 +251,7 @@
 
 Во вкладке **Порталы** справа от URL ссыллки портала нажать на ... и выбрать *Войти*.
 
-![img16](https://github.com/user-attachments/assets/7678683f-0de6-4661-b009-af4e007ddd76)
+![img31](https://github.com/user-attachments/assets/e1b18d21-14c1-4964-bd1f-52e1e2d0900b)
 
 В сплывающем окне указать учётные данные к порталу ArcGIS Enterprise и нажать *Вход*.
 
@@ -259,7 +259,7 @@
 
 Если у вас несколько активных порталов, то для переключения на нужный необходимо нажать на ... справа от портала и выбрать *Задать как Активный портал*.
 
-![img18](https://github.com/user-attachments/assets/843daf80-d7e1-4015-b0ec-3bfadf30eb93)
+![img32](https://github.com/user-attachments/assets/ecd799a4-660b-40ab-8042-db60ea8d0bfd)
 
 ### Шаг 2. Публикация слоя на портал
 
