@@ -178,3 +178,34 @@
 
 (https://pro.arcgis.com/ru/pro-app/latest/tool-reference/data-management/disable-editor-tracking.htm)
 
+## 5. Публикация данных из ArcGIS Pro на портал ArcGIS Enterprise
+
+### Шаг 1. Подключение к порталу в ArcGIS Pro
+
+В правом верхнем углу проекта ArcGIS Pro необходимо произвести вход на портал ArcGIS Enterprise.
+
+![img13](https://github.com/user-attachments/assets/06dc23c0-a892-4d5b-81b7-2ab28ccafdbd)
+
+В появившемся окне нажать на *Добавить портал* либо выбрать уже имеющийся портал и войти в него.
+
+![img14](https://github.com/user-attachments/assets/50cf67d0-d53b-4396-84dc-a657a80b57f1)
+
+В всплывающем окне *Добавить портал* ввести URL ссылку вашего портала и нажать *ОК*.
+
+![img15](https://github.com/user-attachments/assets/f01fdb07-c5df-41c5-bbad-2d026bd9b1db)
+
+Во вкладке **Порталы** справа от URL ссыллки портала нажать на ... и выбрать *Войти*.
+
+![img16](https://github.com/user-attachments/assets/7678683f-0de6-4661-b009-af4e007ddd76)
+
+В сплывающем окне указать учётные данные к порталу ArcGIS Enterprise и нажать *Вход*.
+
+![img17](https://github.com/user-attachments/assets/7f2824a9-139a-4916-9f55-9de767dc9171)
+
+Если у вас несколько активных порталов, то для переключения на нужный необходимо нажать на ... справа от портала и выбрать *Задать как Активный портал*.
+
+![img18](https://github.com/user-attachments/assets/843daf80-d7e1-4015-b0ec-3bfadf30eb93)
+
+
+
+
