@@ -344,6 +344,33 @@
 
 ![img48](https://github.com/user-attachments/assets/ce1a9ea8-a8f3-4c33-801a-520dcc333f3e)
 
+## 7. Настройка автономного режима в ArcGIS Enterprise
+
+Настройка автономного режима осуществляется для веб-карты полевых обследований, которую мы ранее создали. Для этого нажать на веб-карту как показано на рисунке.
+
+![img49](https://github.com/user-attachments/assets/d393ed19-1b99-4ecc-bf08-66c6e4fb99de)
+
+В открывшемся окне в правом верхнем углу выбрать вкладку *Открыть в Field Maps*.
+
+![img50](https://github.com/user-attachments/assets/7760cc35-c069-44a7-bdc7-60bc6bde0e7d)
+
+В окне можно увидеть, что во вкладке **Статус офлайн** отключена возможность автономного режима.
+
+![img51](https://github.com/user-attachments/assets/9c175bc0-eb7d-4d73-a44a-50e9bbeca95e)
+
+Для активации офлайн режима перейти на вкладку **Автономный режим** и перевестим ползунок в активное состояние.
+
+![img52](https://github.com/user-attachments/assets/1c6b5c2d-dc44-44e8-8589-8201f0e692cc)
+
+![img53](https://github.com/user-attachments/assets/b62426f2-0a80-49e5-b6b2-909b0f88b00a)
+
+
+
+
+
+
+
+
 
 
 
