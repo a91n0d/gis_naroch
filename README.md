@@ -736,7 +736,7 @@
 
 ![img111](https://github.com/user-attachments/assets/b4661a8c-fb53-472b-a6ba-1f07ef5b7f05)
 
-
+## 13. Масштабирования, настройка слоя объектов, надписей и символов
 
 
 
