@@ -869,6 +869,11 @@
 ![img136](https://github.com/user-attachments/assets/7e0c3b59-e31a-40a1-9905-8c71994fe3b3)
 
 
+## 99. Полезные ресурсы для скачавания/просмотра геопространственной информации
+### http://igrek.amzp.pl/
+[](http://igrek.amzp.pl/)
+
+
 
 
 
