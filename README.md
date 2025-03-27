@@ -872,9 +872,15 @@
 ## 99. Полезные ресурсы для скачавания/просмотра геопространственной информации
 
 ### igrek.amzp.pl
-[](http://igrek.amzp.pl/) 
+[igrek.amzp.pl](http://igrek.amzp.pl/) 
 
 Mapster — некоммерческий проект, который предоставляет 400–600 dpi jpg-сканы исторических карт и планов городов Польши, Центральной и Восточной Европы. Данные не привязаны.
+
+### Немецкая аэросъемка 1944 года
+
+[Источник1](https://www.google.com/maps/d/u/0/viewer?mid=1MKCYd-NmWAZVO0bbtutYNVwlSJ-Dqzw&hl=ru&ll=54.767454404734245%2C27.199209858285755&z=10)
+
+[Источник2](https://shappoff.github.io/catalogarchivesgov)
 
 
 
