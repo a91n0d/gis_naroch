@@ -910,6 +910,12 @@ Mapster — некоммерческий проект, который предо
 
 [Источник](https://map.nca.by/). Доступно только через VPN.
 
+### ПО SAS.Planet
+
+ПО для скачивания веб-карт подложек от Bing, Google, Yandex, Navionics и др
+
+[Ссылка на рабочую версию на 03.2025](https://www.mediafire.com/file/mohcbfvt45esyf0/SAS.Planet.Nightly.240828.10624%2528sasplanet.geojamal.com%2529.zip/file)
+
 
 
 
