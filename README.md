@@ -2,7 +2,7 @@
 
 # Содержание:
 
-[1. Развертывание и настройка ArcGIS Enterprise](#1-Развертывание-и-настройка-ArcGIS-Enterprise)
+[1. Развертывание и настройка ArcGIS Enterprise, установка бесплатного сертификата Let’s Encrypt в Windows Server](№1-Развертывание-и-настройка-ArcGIS-Enterprise-установка-бесплатного-сертификата-Let’s-Encrypt-в-Windows-Server)
 
 [2. Развертывание настройка PostgreSQL, интеграция с ArcGIS Desktop](#2-Развертывание-настройка-PostgreSQL-интеграция-с-ArcGIS-Desktop)
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 1. Развертывание и настройка ArcGIS Enterprise
+## 1. Развертывание и настройка ArcGIS Enterprise, установка бесплатного сертификата Let’s Encrypt в Windows Server
 
 Список портов, которые необходимы для работы ArcGIS Enterprise (необходимо открыть в брандмауэре):
 - сервер: 6443, 6080, 6006;
@@ -59,7 +59,7 @@
 
 [Подводные камни установки серверных продуктов ArcGIS](https://blogs.esri-cis.ru/2015/06/08/underwater-stones-installation-arcgis-server/)
 
-###Установка бесплатного сертификата Let’s Encrypt в Windows Server
+### Установка бесплатного сертификата Let’s Encrypt в Windows Server
 
 [Источник](https://winitpro.ru/index.php/2017/11/03/ustanovka-besplatnogo-ssl-sertifikata-lets-encrypt-na-iis-v-windows-server-2012-r2/)
 
