@@ -59,6 +59,10 @@
 
 [Подводные камни установки серверных продуктов ArcGIS](https://blogs.esri-cis.ru/2015/06/08/underwater-stones-installation-arcgis-server/)
 
+###Установка бесплатного сертификата Let’s Encrypt в Windows Server
+
+[Источник](https://winitpro.ru/index.php/2017/11/03/ustanovka-besplatnogo-ssl-sertifikata-lets-encrypt-na-iis-v-windows-server-2012-r2/)
+
 ---
 
 ## 2. Развертывание настройка PostgreSQL, интеграция с ArcGIS Desktop
