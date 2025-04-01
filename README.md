@@ -2,7 +2,7 @@
 
 # Содержание:
 
-[1. Развертывание и настройка ArcGIS Enterprise, установка бесплатного сертификата Let’s Encrypt в Windows Server](#1-Развертывание-и-настройка-ArcGIS-Enterprise-установка-бесплатного-сертификата-Let-s-Encrypt-в-Windows-Server)
+[1. Развертывание и настройка ArcGIS Enterprise, установка бесплатного сертификата Let’s Encrypt в Windows Server](#1.-Развертывание-и-настройка-ArcGIS-Enterprise-установка-бесплатного-сертификата-Let’s-Encrypt-в-Windows-Server)
 
 [2. Развертывание настройка PostgreSQL, интеграция с ArcGIS Desktop](#2-Развертывание-настройка-PostgreSQL-интеграция-с-ArcGIS-Desktop)
 
