@@ -1118,6 +1118,10 @@ Mapster — некоммерческий проект, который предо
 
 [Источник2](https://shappoff.github.io/catalogarchivesgov)
 
+### Аэросъемка СССР 1950-70 гг. для лесоустройства
+
+[Источник](http://gisoopt.by/gis/data/temp/snimki_kass.rar)
+
 ### Слои OSM
 
 Векторыне слои с карты OSM. Данные можно скачать в формате .shp, данные привязаны.
