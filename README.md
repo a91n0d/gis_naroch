@@ -34,6 +34,8 @@
 
 [16. Просмотр спутниковых снимков Sentinel-2 в EO Browser](#16-Просмотр-спутниковых-снимков-Sentinel-2-в-EO-Browser)
 
+[16. Просмотр спутниковых снимков Sentinel-2 в EO Browser](#17-Настройка-FTP-сервера-на-Windows-Server)
+
 [99. Полезные ресурсы для скачавания/просмотра геопространственной информации](#99-Полезные-ресурсы-для-скачаванияпросмотра-геопространственной-информации)
 
 ---
@@ -1099,6 +1101,12 @@
 ![img184](https://github.com/user-attachments/assets/bc78967c-2c47-404e-9b45-1956cb4bb481)
 
 ![img185](https://github.com/user-attachments/assets/a885f26d-ff5c-4707-a8f4-375ed747235f)
+
+---
+
+## 17. Настройка FTP-сервера на Windows Server
+
+[Источник](https://ruvds.com/ru/helpcenter/kak-nastroit-ftp-na-windows-server-2016/)
 
 ---
 
