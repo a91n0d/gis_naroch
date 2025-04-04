@@ -1128,7 +1128,13 @@ Mapster — некоммерческий проект, который предо
 
 ### Аэросъемка СССР 1950-70 гг. для лесоустройства
 
-[Источник](http://gisoopt.by/gis/data/temp/snimki_kass.rar)
+[Березинский заповедник](http://gisoopt.by/gis/data/temp/Berezinsky.rar)
+
+[Браславские озера](http://gisoopt.by/gis/data/temp/Braslav.rar)
+
+[Припятский](http://gisoopt.by/gis/data/temp/Pripiat.rar)
+
+[Беловежская пуща](http://gisoopt.by/gis/data/temp/Puscha.rar)
 
 ### Слои OSM
 
