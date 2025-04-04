@@ -1148,6 +1148,10 @@ Mapster — некоммерческий проект, который предо
 
 [Источник](https://map.nca.by/)
 
+API для подключения в ArcGIS Pro wms слоев 
+
+[Источник](https://github.com/a91n0d/gis_naroch/blob/main/source/api.nca.by.wms)
+
 ### Copernicus browser
 
 Скачивание данных космической съемки аппаратами семейства Sentinel
