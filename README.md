@@ -1324,9 +1324,7 @@ API для подключения в ArcGIS Pro wms слоев
 
 [Источник](https://dwtkns.com/srtm/)
 
-### Данные SRTM
-
-Приложение по созданию точечных слоёв из excel в .shp
+### Приложение по созданию точечных слоёв из excel в .shp
 
 [Источник](https://drive.google.com/file/d/1Z6QoDaMQQNTW0T2FPc_GdTkdJ5-3BtBg/view?usp=sharing)
 
